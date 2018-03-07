@@ -5,12 +5,8 @@ import {
 } from 'react-native';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAbpmdpCpt2qDGYaX9o2xHm8cC1UmbHPLQ",
-  authDomain: "yotodo-277b4.firebaseapp.com",
-  databaseURL: "https://yotodo-277b4.firebaseio.com",
-  projectId: "yotodo-277b4",
-  storageBucket: "yotodo-277b4.appspot.com",
-  messagingSenderId: "956797187570"
+
+  // put config here
 };
 
 class Config {
